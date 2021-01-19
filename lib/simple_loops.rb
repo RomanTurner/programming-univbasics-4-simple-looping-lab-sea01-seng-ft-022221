@@ -29,3 +29,14 @@ end
 
 output_array(["Be yourself;", "everyone else is already taken", "- Oscar Wilde"])
 output_array([5, 4, 3, 2, 1])
+
+def return_string_array(array)
+
+
+end
+
+
+
+
+
+
