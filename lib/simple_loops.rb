@@ -25,3 +25,6 @@ while counter < array.length do
     counter += 1
   end
 end
+
+output_array(["Be yourself;", "everyone else is already taken", "- Oscar Wilde"])
+
