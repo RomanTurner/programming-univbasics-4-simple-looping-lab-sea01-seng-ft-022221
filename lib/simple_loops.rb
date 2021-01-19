@@ -20,7 +20,8 @@ loop_message_n_times("Hello Moon.", 5)
 loop_message_n_times("Hello Reb Balloon.", 10)
 
 def output_array(array)
-while counter = 0 < array.length do
+counter = 0
+while counter < array.length do
     puts array[counter]
     counter += 1
   end
